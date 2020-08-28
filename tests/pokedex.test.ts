@@ -1,9 +1,5 @@
-describe('calculate', function() {
-    it('add', function() {
+describe('pokemon', function() {
+    it('total', function() {
         expect(7).toBe(7);
-    });
-
-    it('substract', function() {
-        expect(3).toBe(3);
     });
 });
