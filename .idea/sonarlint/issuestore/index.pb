@@ -1,15 +1,0 @@
-
-:
-
-index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
-:
-
-src/app.ts,2\1\216381173f187cf4c2baf119193855699f4bc616
-9
-	style.css,4\6\46e3381e9569c09e85a30b9e5a2af7525ee9fd78
-=
-tsconfig.json,6\1\61ebb9fd6e8cf9082658121d5d81e297791dacd0
-<
-package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
-E
-tests/pokedex.test.ts,1\5\15e7bb62e9c928028a3b557ee4271ddf3999b69c
