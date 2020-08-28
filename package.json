@@ -1,0 +1,19 @@
+{
+  "name": "hellojest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.9",
+    "jest": "^26.4.0",
+    "ts-jest": "^26.2.0",
+    "typescript": "^3.9.7"
+  }
+}
